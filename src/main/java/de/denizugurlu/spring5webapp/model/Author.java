@@ -1,4 +1,4 @@
-package de.denizugurlu.spring5webapp;
+package de.denizugurlu.spring5webapp.model;
 
 import javax.persistence.*;
 import java.util.HashSet;
